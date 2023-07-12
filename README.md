@@ -10,4 +10,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobreirinha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-https://github.com/sobreirinha/ssobreirinha/blob/output/github-contribution-grid-snake.svg
+https://github.com/sobreirinha/sobreirinha/blob/output/github-contribution-grid-snake.svg
