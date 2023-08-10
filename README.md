@@ -1,8 +1,11 @@
 # Olá eu sou Gustavo Sobreira
 
-👀Alguém me ajuda com essa maldita cobra?<br>
-👩‍🎓<br>
-💻<br>
+-👀Alguém me ajuda com essa maldita cobra?<br>
+- 👋 Hi, I’m @sobreirinha
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!--
 <div>
