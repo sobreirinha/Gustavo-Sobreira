@@ -1,10 +1,10 @@
 # Olá eu sou Gustavo Sobreira
 
-- 👀Alguém me ajuda com essa maldita cobra?<br>
+- 👀Alguém me ajuda com essa cobrinha?<br>
 - 👋 Hi, I’m Gustavo Sobreira (@sobreirinha)
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JS, HTML, CSS.
-- 📫 How to reach me ...
+- 🌱 I’m currently teaching myself  learning JS, HTML, CSS and PY.
+- 📫 How to reach me, https://br.linkedin.com/in/gustavo-sobreira
 
 
 <div>
